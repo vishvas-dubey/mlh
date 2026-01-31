@@ -2,7 +2,7 @@
 
 AI Workshop Event Bot
 Solution for the AI Hackathon Challenge
-This repository contains a complete solution for the "Build the Event Bot" AI Hackathon challenge, creating a smart assistant to enhance participant experience during the upcoming workshop on May 18th, 2025.
+This repository contains a complete solution for the "Build the Event Bot" AI Hackathon challenge, creating a smart assistant to enhance participant experience during the upcoming workshop on jan 31st, 2026.
 Overview
 The Event Bot is a conversational AI assistant that helps workshop participants with real-time information, personalized recommendations, and feedback collection. It leverages Google Gemini for natural language understanding and generation.
 Key Features
